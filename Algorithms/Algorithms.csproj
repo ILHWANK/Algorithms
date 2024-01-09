@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
+    <ProjectGuid>{543FD97E-C0C5-46E2-A65C-B443FC905780}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Algorithms</RootNamespace>
+    <AssemblyName>Algorithms</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|anycpu' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ExternalConsole>true</ExternalConsole>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AnInterceptionSystem.cs" />
+    <Compile Include="AlonePlayTic_Tac_To.cs" />
+    <Compile Include="AlgorithmsMain.cs" />
+    <Compile Include="Lighthouse.cs" />
+    <Compile Include="EmoticonDiscountEvent.cs" />
+    <Compile Include="N_Queen.cs" />
+    <Compile Include="PoppingBalloons.cs" />
+    <Compile Include="EmoticonDiscountEvent_Backtracking.cs" />
+    <Compile Include="MazeOfEscape.cs" />
+    <Compile Include="Delivery.cs" />
+    <Compile Include="ReturnOfTheMilitaryUnit.cs" />
+    <Compile Include="IslandConnection.cs" />
+    <Compile Include="ExpressionableBinaryTrees.cs" />
+    <Compile Include="LargestNumber.cs" />
+    <Compile Include="FibonacciNumber.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>

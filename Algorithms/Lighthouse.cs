@@ -122,7 +122,7 @@ namespace Algorithms
                     if(checkOnOffs[checkList[i]] == false) offCount++;
                 }
 
-                // 자식 Node(등대) 가 하나라도 꺼져 있거나  
+                // 자식 Node(등대) 가 하나라도 꺼져 있거나 본인이 켜져 있는경우
                 if (offCount > 0 || isOn)
                 {
                     if (checkOnOffs[pPeek] == false)

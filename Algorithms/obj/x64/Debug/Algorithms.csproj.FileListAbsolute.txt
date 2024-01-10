@@ -1,0 +1,6 @@
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\bin\x64\Debug\Algorithms.exe
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\bin\x64\Debug\Algorithms.pdb
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\x64\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\x64\Debug\Algorithms.exe
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\x64\Debug\Algorithms.pdb
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\x64\Debug\Algorithms.csprojAssemblyReference.cache

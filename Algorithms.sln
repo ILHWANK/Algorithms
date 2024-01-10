@@ -8,13 +8,23 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
 		Release|anycpu = Release|anycpu
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Debug|anycpu.Build.0 = Debug|anycpu
-		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Release|anycpu.ActiveCfg = Release|anycpu
-		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Release|anycpu.Build.0 = Release|anycpu
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Debug|anycpu.ActiveCfg = Debug|x64
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Debug|x64.ActiveCfg = Debug|x64
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Debug|x64.Build.0 = Debug|x64
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Debug|x86.ActiveCfg = Debug|x86
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Debug|x86.Build.0 = Debug|x86
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Release|anycpu.ActiveCfg = Release|x64
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Release|x64.ActiveCfg = Release|x64
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Release|x64.Build.0 = Release|x64
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Release|x86.ActiveCfg = Release|x86
+		{543FD97E-C0C5-46E2-A65C-B443FC905780}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

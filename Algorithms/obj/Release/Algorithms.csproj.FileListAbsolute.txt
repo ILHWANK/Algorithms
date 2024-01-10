@@ -1,0 +1,4 @@
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\bin\Release\Algorithms.exe
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\Release\Algorithms.csprojAssemblyReference.cache
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\Release\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\Release\Algorithms.exe

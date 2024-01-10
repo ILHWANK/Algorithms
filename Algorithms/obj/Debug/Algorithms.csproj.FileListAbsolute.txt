@@ -4,3 +4,9 @@
 /Users/gim-ilhwan/Projects/Algorithms/Algorithms/obj/Debug/Algorithms.exe
 /Users/gim-ilhwan/Projects/Algorithms/Algorithms/obj/Debug/Algorithms.pdb
 /Users/gim-ilhwan/Projects/Algorithms/Algorithms/obj/Debug/Algorithms.csproj.AssemblyReference.cache
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\User\Documents\이직준비\Algorithms\Algorithms\obj\Debug\Algorithms.pdb

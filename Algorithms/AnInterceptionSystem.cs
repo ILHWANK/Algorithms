@@ -16,7 +16,7 @@ namespace Algorithms
             // 문제 예시
             int[,] testTargets = { { 11, 13 }, { 10, 14 }, { 5, 12 }, { 4, 8 }, { 4, 5 }, { 3, 7 }, { 1, 4 } };
 
-            Console.WriteLine(string.Format("1. answer : {0}", solution(testTargets)));
+            Console.WriteLine(string.Format("answer : {0}", solution(testTargets)));
 
             int solution(int[,] targets)
             {
